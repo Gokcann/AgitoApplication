@@ -1,0 +1,7 @@
+C:\Users\vaio\source\repos\AgitoApplication\AgitoApplication\obj\Debug\AgitoApplication.csprojAssemblyReference.cache
+C:\Users\vaio\source\repos\AgitoApplication\AgitoApplication\obj\Debug\AgitoApplication.csproj.CoreCompileInputs.cache
+C:\Users\vaio\source\repos\AgitoApplication\AgitoApplication\bin\Debug\AgitoApplication.exe.config
+C:\Users\vaio\source\repos\AgitoApplication\AgitoApplication\bin\Debug\AgitoApplication.exe
+C:\Users\vaio\source\repos\AgitoApplication\AgitoApplication\bin\Debug\AgitoApplication.pdb
+C:\Users\vaio\source\repos\AgitoApplication\AgitoApplication\obj\Debug\AgitoApplication.exe
+C:\Users\vaio\source\repos\AgitoApplication\AgitoApplication\obj\Debug\AgitoApplication.pdb
